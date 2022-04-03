@@ -1,0 +1,11 @@
+.container{
+    margin: auto;
+    height: 400px;
+    width: 600px;
+    background-color: #5d3a3a;
+}
+.square{
+    height: 250px;
+    width: 260px;
+    background-color: #b5e0ba;
+}
